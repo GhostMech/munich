@@ -1,0 +1,18 @@
+{
+  "name": "munich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "movie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "browserify": "^16.2.2",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  }
+}
